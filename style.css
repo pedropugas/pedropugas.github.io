@@ -1,0 +1,55 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: azure;
+    padding: 1%;
+}
+
+em {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.aprender {
+    font-size: 1.5em;
+}
+
+.raciocinio {
+    font-size: 1.4em;
+}
+
+.esforco {
+    font-size: 1.3em;
+}
+
+.curiosidade {
+    font-size: 1.2em;
+}
+
+#pedro {
+    float: left;
+    padding: 10px;
+    background-color: wheat;
+}
+
+.image-container {
+    height: 470px;
+    position: relative;
+}
+
+#sobre {
+    position: absolute;
+    top: 45%;
+    right: 3%;
+    font-size: 12px;
+}
+
+#habilidades li:nth-child(odd) {
+    background-color: antiquewhite;
+}
